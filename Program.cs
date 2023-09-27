@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-string[] array1 = new string[9] {"25787", "45", "hello", "world", "res", "456", "Kolya", "Ann", "in"};
+string[] array1 = new string[9] {"852456", "78", "stars", "planets", "Gor", "viv", "Kolya", "Ann", "in"};
 string[] array2 = new string[array1.Length];
 
 void SecondArray (string[] array1, string[] array2)
